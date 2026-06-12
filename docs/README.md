@@ -2,8 +2,6 @@
 
 This README serves as a comprehensive index and overview for all OctoAcme project management process documents. Use it as a starting point to understand how OctoAcme runs projects and to quickly navigate our process library.
 
-Closes #2
-
 ---
 
 ## Summary of OctoAcme's Project Management Approach
