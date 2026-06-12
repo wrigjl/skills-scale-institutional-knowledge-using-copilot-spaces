@@ -1,6 +1,8 @@
 # OctoAcme Project Management Docs
 
-This README serves as a comprehensive index and overview for all OctoAcme project management process documents. Use it as a starting point to understand how OctoAcme runs projects and to quickly navigate to the detailed guidance you need.
+This README serves as a comprehensive index and overview for all OctoAcme project management process documents. Use it as a starting point to understand how OctoAcme runs projects and to quickly navigate our process library.
+
+Closes #2
 
 ---
 
@@ -20,7 +22,7 @@ OctoAcme follows an **iterative, data-informed delivery** model built around a f
 
 | Document | Description |
 |---|---|
-| [Project Management Overview](octoacme-project-management-overview.md) | A concise introduction to how OctoAcme runs projects — approach, roles, and key artifacts. Start here if you are new to the team. |
+| [Project Management Overview](octoacme-project-management-overview.md) | A concise introduction to how OctoAcme runs projects — approach, roles, and key artifacts. Start here if you are new to the organization. |
 | [Project Initiation](octoacme-project-initiation.md) | Steps to validate and authorize work, align stakeholders, and create a lightweight project brief. |
 | [Project Planning](octoacme-project-planning.md) | How to turn an approved initiative into an actionable plan and prioritized backlog. |
 | [Execution & Tracking](octoacme-execution-and-tracking.md) | Day-to-day guidance for managing sprints, tracking progress, and keeping stakeholders informed. |
